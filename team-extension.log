@@ -1,0 +1,42 @@
+2021-11-12T14:21:28.959Z - info:   [23352] *** FOLDER: d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10 ***
+2021-11-12T14:21:28.959Z - info:   [23352] AzureReposVSCode/1.161.1 (VSCode 1.62.2; Windows_NT 10.0.22000; Node 14.16.0)
+2021-11-12T14:21:28.959Z - debug:  [23352] Looking for an External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-12T14:21:28.959Z - debug:  [23352] No External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-12T14:21:28.968Z - debug:  [23352] Looking for TFVC repository at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-12T14:21:28.968Z - debug:  [23352] TFVC Creating Tfvc object with localPath='undefined'
+2021-11-12T14:21:28.968Z - debug:  [23352] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2021-11-12T14:21:28.969Z - debug:  [23352] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2021-11-12T14:21:28.969Z - warn:   [23352] TFVC C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe does not exist.
+2021-11-12T14:21:28.969Z - error:  [23352] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2021-11-12T14:34:31.546Z - info:   [27488] *** FOLDER: d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10 ***
+2021-11-12T14:34:31.547Z - info:   [27488] AzureReposVSCode/1.161.1 (VSCode 1.62.2; Windows_NT 10.0.22000; Node 14.16.0)
+2021-11-12T14:34:31.547Z - debug:  [27488] Looking for an External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-12T14:34:31.547Z - debug:  [27488] No External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-12T14:34:31.549Z - debug:  [27488] Looking for TFVC repository at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-12T14:34:31.549Z - debug:  [27488] TFVC Creating Tfvc object with localPath='undefined'
+2021-11-12T14:34:31.550Z - debug:  [27488] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2021-11-12T14:34:31.550Z - debug:  [27488] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2021-11-12T14:34:31.550Z - warn:   [27488] TFVC C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe does not exist.
+2021-11-12T14:34:31.550Z - error:  [27488] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2021-11-13T00:35:56.947Z - debug:  [27488] Reinitializing due to onDidChangeConfiguration
+2021-11-13T00:35:56.949Z - debug:  [27488] Polling interval value (minutes): 12
+2021-11-13T00:35:56.954Z - info:   [27488] *** FOLDER: d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10 ***
+2021-11-13T00:35:56.954Z - info:   [27488] AzureReposVSCode/1.161.1 (VSCode 1.62.2; Windows_NT 10.0.22000; Node 14.16.0)
+2021-11-13T00:35:56.954Z - debug:  [27488] Looking for an External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-13T00:35:56.954Z - debug:  [27488] No External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-13T00:35:56.967Z - debug:  [27488] Looking for TFVC repository at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-13T00:35:56.967Z - debug:  [27488] TFVC Creating Tfvc object with localPath='undefined'
+2021-11-13T00:35:56.968Z - debug:  [27488] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2021-11-13T00:35:56.968Z - debug:  [27488] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2021-11-13T00:35:56.968Z - warn:   [27488] TFVC C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe does not exist.
+2021-11-13T00:35:56.969Z - error:  [27488] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
+2021-11-13T02:09:55.325Z - info:   [23976] *** FOLDER: d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10 ***
+2021-11-13T02:09:55.325Z - info:   [23976] AzureReposVSCode/1.161.1 (VSCode 1.62.2; Windows_NT 10.0.22000; Node 14.16.0)
+2021-11-13T02:09:55.325Z - debug:  [23976] Looking for an External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-13T02:09:55.325Z - debug:  [23976] No External Context at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-13T02:09:55.327Z - debug:  [23976] Looking for TFVC repository at d:\GBC Course\Sem5-2021\FullStack Dev 1 - COMP 3123\Material\week 10\Lab Exercises\labweek10
+2021-11-13T02:09:55.327Z - debug:  [23976] TFVC Creating Tfvc object with localPath='undefined'
+2021-11-13T02:09:55.328Z - debug:  [23976] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2021-11-13T02:09:55.328Z - debug:  [23976] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2021-11-13T02:09:55.329Z - warn:   [23976] TFVC C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe does not exist.
+2021-11-13T02:09:55.329Z - error:  [23976] Unable to find the TF executable. Please ensure TF is installed and the path specified contains the filename.
